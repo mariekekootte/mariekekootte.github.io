@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://mariekekootte.github.io/sitemap.xml
